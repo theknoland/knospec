@@ -37,7 +37,10 @@ export default defineConfig({
 					label: 'Architectural',
 					items: [{ autogenerate: { directory: 'architectural' } }],
 				},
-
+				{
+					label: 'Financial',
+					items: [{ autogenerate: { directory: 'financial' } }],
+				},
 			],
 		}),
 	],

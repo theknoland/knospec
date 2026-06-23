@@ -10,7 +10,7 @@ sidebar:
 
 The land on which human minds dwell is under attack, by no other but humankind.
 
-While natural things grow under constraints, beautiful things emerge out of pains, harmful things as the result of abundance:
+While natural things grow under constraints and artful things emerge from pains, harmful things mushroom out of abundance:
 
 - Advertisement. 
 - Games.

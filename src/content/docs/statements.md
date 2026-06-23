@@ -6,15 +6,15 @@ sidebar:
   order: 10
 ---
 
-== Vision
+## Vision
 
 To sustain and advance humanity.
 
-== Mission
+## Mission
 
 Enhance human's living experiences by digitizing and turning human knowledge into power.
 
-== Ideology
+## Ideology
 
 Knoland is a Kult.
 
@@ -23,7 +23,7 @@ Knolanders adhere to Kommunism, a pragmatic living ideology constantly taking th
 - From Communism:
   - Abolition of private knowledge, without encroaching on privacy.
 
-== Values
+## Values
 
 Knolanders are different.
 
