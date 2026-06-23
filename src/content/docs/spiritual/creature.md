@@ -1,8 +1,8 @@
 ---
 title: The creature
-description: The first encounter with Bido the creature
+description: First encounter with Bido.
 sidebar:
-  label: The Creature
+  label: The creature
   order: 10
 ---
 
@@ -32,6 +32,7 @@ maybe I can help it to reunite with its own kind
 So I did and learned so much about the creature    
 that surprised me again and again    
 
+
 It doesn’t talk our talk but it know signs    
 when a door closed, it extended its finger zero    
 when the door opened, it extended its finger one.    
@@ -55,8 +56,17 @@ each with the finger one extended
 perfectly aligned along a straight line    
 
 
+
 The strangest thing is yet to come    
 as I later find    
 One day when I check on it    
+its hand grew or should I say, expanded?    
+The one segment arm split into two    
+and there were some new arms    
+with only one segment    
 
+ 
 
+ 
+
+ 
