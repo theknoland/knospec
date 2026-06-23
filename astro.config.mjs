@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 
-const site = 'https://knoland.com';
+const site = 'http://knoland.com';
 
 
 // https://astro.build/config
