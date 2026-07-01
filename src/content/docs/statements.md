@@ -18,7 +18,7 @@ Enhance human's living experiences by digitizing and turning human knowledge int
 
 Knoland is a Kult.
 
-Knolanders adhere to Kommunism, a pragmatic living ideology constantly taking the good parts of Communitarianism, Communalism, Communism, and any other-isms of the past, present and future.
+Knolanders adhere to Kommunism, a living pragmatic ideology constantly taking the good parts of Communitarianism, Communalism, and you read it correct, Communism, as well as any other-isms of the past, present and future.
 
 - From Communism:
   - Abolition of private knowledge, without encroaching on privacy.
